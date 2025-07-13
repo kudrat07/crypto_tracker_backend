@@ -51,7 +51,6 @@ npm run dev
 
 ```bash
 https://github.com/kudrat07/crypto_tracker_frontend.git
-npm install
 ```
 
 
